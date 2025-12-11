@@ -1,0 +1,2 @@
+python precompute_fresnel.py
+python precompute_era.py
